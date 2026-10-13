@@ -1,0 +1,20 @@
+Added Component: Designator=C?(capacitor)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC-8)
+Added Component: Designator=R?(Resistor)
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-5
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-6
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-7
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-8
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=R?-2
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-4
+Added Net: Name=NetIC?_2
